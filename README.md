@@ -11,13 +11,24 @@ Hi! This is a front-end starter kit with organised file structure and gulpfile.j
 
 > Step 3: Download any other components to the `components/` directory.
 
-> Step 3: Start development in `src/` directory.
+> Step 4: Start development in `src/` directory.
 
 
 
-### `Gulp test`
+#### `Gulp test`
 > Starts a testing server using BrowserSync.
 
-### `Gulp deploy`
+#### `Gulp deploy`
 > Create a production build in the dist folder.
 
+## Features
+
+|Feature| Summary |
+|--|--|
+| Preprocessing |Multiple and Simultaenous use of Sass, Less, Stylus.
+|Template Engine  |Jade support   |
+| Code Linting | Code Linting support using ESLint |
+| Compression | CSS, Javascript even ES6 compression supported. |
+| LiveReloading | LiveReloading with BrowserSync |
+| Cross Device Sync| `gulp test` starts the test server with cross device synchronisation & LiveReloading 
+|Auto-Injecting| No need to link any css or js in code, use bower and/or download files to `components/` folder.|
