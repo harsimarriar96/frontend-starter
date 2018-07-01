@@ -1,6 +1,6 @@
 # Frontend Starter Kit
 
-Hi! This is a front-end starter kit with organised file structure and gulpfile.js used by [@harsimarriar96](www.github.com/harsimarriar96).
+Hi! This is a front-end starter kit with organised file structure and gulpfile.js used by [@harsimarriar96](http://www.github.com/harsimarriar96).
 
 
 ## Usage
